@@ -12,3 +12,6 @@ public class Task5 {
     static void myNew2
     System.out.println("Test2");}
             }
+
+          sdsffs
+
